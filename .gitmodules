@@ -5,44 +5,44 @@
 [submodule "Ritable"]
 	path = Ritable
 	url = https://github.com/circadia-bio/R-itable
-	branch = *release
+	branch = v0.1.0
 [submodule "boldR"]
 	path = boldR
 	url = https://github.com/circadia-bio/boldR
-	branch = main
+	branch = v0.1.0
 [submodule "circadia"]
 	path = circadia
 	url = https://github.com/circadia-bio/circadia
-	branch = main
+	branch = v0.1.0
 [submodule "clerkR"]
 	path = clerkR
 	url = https://github.com/circadia-bio/clerkR
-	branch = main
+	branch = v0.1.2
 [submodule "dynR"]
 	path = dynR
 	url = https://github.com/circadia-bio/dynR
-	branch = main
+	branch = v0.1.0
 [submodule "hypnoR"]
 	path = hypnoR
 	url = https://github.com/circadia-bio/hypnoR
-	branch = main
+	branch = v0.1.0
 [submodule "mrpheus"]
 	path = mrpheus
 	url = https://github.com/circadia-bio/mrpheus
-	branch = main
+	branch = v0.1.0
 [submodule "slumbR"]
 	path = slumbR
 	url = https://github.com/circadia-bio/slumbR
-	branch = main
+	branch = v0.1.0
 [submodule "syncR"]
 	path = syncR
 	url = https://github.com/circadia-bio/syncR
-	branch = main
+	branch = v0.1.0
 [submodule "tallieR"]
 	path = tallieR
 	url = https://github.com/circadia-bio/tallieR
-	branch = main
+	branch = v0.2.0
 [submodule "zeitR"]
 	path = zeitR
 	url = https://github.com/circadia-bio/zeitR
-	branch = main
+	branch = v0.1.0
