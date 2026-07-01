@@ -1,0 +1,10 @@
+{
+  "id": 143845460,
+  "created_at": "2026-07-01T23:49:35.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["slumbR", "tallieR", "R-itable", "zeitR", "syncR", "circadia", "clerkR", "hypnoR", "mrpheus", "boldR", "dynR"]
+}
