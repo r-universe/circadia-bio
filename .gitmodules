@@ -1,5 +1,44 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/circadia-bio/circadia-bio.r-universe.dev
 	branch = HEAD
+[submodule "boldR"]
+	path = boldR
+	url = https://github.com/circadia-bio/boldR
+	branch = main
+[submodule "circadia"]
+	path = circadia
+	url = https://github.com/circadia-bio/circadia
+	branch = main
+[submodule "clerkR"]
+	path = clerkR
+	url = https://github.com/circadia-bio/clerkR
+	branch = main
+[submodule "dynR"]
+	path = dynR
+	url = https://github.com/circadia-bio/dynR
+	branch = main
+[submodule "hypnoR"]
+	path = hypnoR
+	url = https://github.com/circadia-bio/hypnoR
+	branch = main
+[submodule "mrpheus"]
+	path = mrpheus
+	url = https://github.com/circadia-bio/mrpheus
+	branch = main
+[submodule "slumbR"]
+	path = slumbR
+	url = https://github.com/circadia-bio/slumbR
+	branch = main
+[submodule "syncR"]
+	path = syncR
+	url = https://github.com/circadia-bio/syncR
+	branch = main
+[submodule "tallieR"]
+	path = tallieR
+	url = https://github.com/circadia-bio/tallieR
+	branch = main
+[submodule "zeitR"]
+	path = zeitR
+	url = https://github.com/circadia-bio/zeitR
+	branch = main
