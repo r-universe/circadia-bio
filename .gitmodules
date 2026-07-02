@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/circadia-bio/circadia-bio.r-universe.dev
 	branch = HEAD
+[submodule "Ritable"]
+	path = Ritable
+	url = https://github.com/circadia-bio/R-itable
+	branch = *release
 [submodule "boldR"]
 	path = boldR
 	url = https://github.com/circadia-bio/boldR

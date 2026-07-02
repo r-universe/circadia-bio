@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "Ritable",
+    "releasetag": true
+  },
+  {
     "package": "zeitR",
     "releasetag": true
   },
