@@ -1,0 +1,42 @@
+[
+  {
+    "package": "circadia",
+    "releasetag": true
+  },
+  {
+    "package": "zeitR",
+    "releasetag": true
+  },
+  {
+    "package": "slumbR",
+    "releasetag": true
+  },
+  {
+    "package": "tallieR",
+    "releasetag": true
+  },
+  {
+    "package": "syncR",
+    "releasetag": true
+  },
+  {
+    "package": "clerkR",
+    "releasetag": true
+  },
+  {
+    "package": "hypnoR",
+    "releasetag": true
+  },
+  {
+    "package": "mrpheus",
+    "releasetag": true
+  },
+  {
+    "package": "boldR",
+    "releasetag": true
+  },
+  {
+    "package": "dynR",
+    "releasetag": true
+  }
+]
