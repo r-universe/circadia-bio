@@ -21,7 +21,7 @@
 [submodule "dynR"]
 	path = dynR
 	url = https://github.com/circadia-bio/dynR
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "hypnoR"]
 	path = hypnoR
 	url = https://github.com/circadia-bio/hypnoR
