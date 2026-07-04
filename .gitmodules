@@ -29,7 +29,7 @@
 [submodule "mrpheus"]
 	path = mrpheus
 	url = https://github.com/circadia-bio/mrpheus
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "slumbR"]
 	path = slumbR
 	url = https://github.com/circadia-bio/slumbR
