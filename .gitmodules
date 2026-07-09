@@ -45,4 +45,4 @@
 [submodule "zeitR"]
 	path = zeitR
 	url = https://github.com/circadia-bio/zeitR
-	branch = v0.1.2
+	branch = v0.1.3
