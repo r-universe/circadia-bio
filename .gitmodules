@@ -25,7 +25,7 @@
 [submodule "hypnoR"]
 	path = hypnoR
 	url = https://github.com/circadia-bio/hypnoR
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "mrpheus"]
 	path = mrpheus
 	url = https://github.com/circadia-bio/mrpheus
