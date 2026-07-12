@@ -42,5 +42,9 @@
   {
     "package": "dynR",
     "releasetag": true
+  },
+  {
+    "package": "Rtractor",
+    "releasetag": true
   }
 ]
