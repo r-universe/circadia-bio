@@ -9,7 +9,7 @@
 [submodule "Rtractor"]
 	path = Rtractor
 	url = https://github.com/circadia-bio/Rtractor
-	branch = *release
+	branch = v0.1.0
 [submodule "boldR"]
 	path = boldR
 	url = https://github.com/circadia-bio/boldR
