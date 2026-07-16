@@ -10,6 +10,10 @@
 	path = Rtractor
 	url = https://github.com/circadia-bio/Rtractor
 	branch = v0.1.0
+[submodule "axR"]
+	path = axR
+	url = https://github.com/circadia-bio/axR
+	branch = *release
 [submodule "boldR"]
 	path = boldR
 	url = https://github.com/circadia-bio/boldR
