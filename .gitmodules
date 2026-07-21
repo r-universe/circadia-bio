@@ -13,7 +13,7 @@
 [submodule "axR"]
 	path = axR
 	url = https://github.com/circadia-bio/axR
-	branch = v0.1.2
+	branch = v0.1.3
 [submodule "boldR"]
 	path = boldR
 	url = https://github.com/circadia-bio/boldR
