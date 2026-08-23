@@ -5,7 +5,7 @@
 [submodule "Ritable"]
 	path = Ritable
 	url = https://github.com/circadia-bio/R-itable
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "Rtractor"]
 	path = Rtractor
 	url = https://github.com/circadia-bio/Rtractor
